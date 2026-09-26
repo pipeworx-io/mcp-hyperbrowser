@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hyperbrowser",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Hyperbrowser MCP — wraps the Hyperbrowser AI-agent browsing API",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-3c21d34d66174521f69dc4ef3e7f86bb9678195b308a9ae1963f764e58b4baba",
-    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
+    "sourceHash": "v1-f4e08b03e71c8e813b3df5a181d46fe6c7cd9d6318c5d8a9aa5a4dd8ac455d1f",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
