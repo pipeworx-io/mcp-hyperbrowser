@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-hyperbrowser",
-  "version": "0.2.1",
-  "description": "Hyperbrowser MCP — wraps the Hyperbrowser AI-agent browsing API (hyperbrowser.ai). Scrape, extract, and crawl web pages from headless cloud browsers built for AI agents.",
+  "version": "0.2.2",
+  "description": "Unofficial Hyperbrowser MCP — wraps the Hyperbrowser AI-agent browsing API (hyperbrowser.ai). Scrape, extract, and crawl web pages from headless cloud browsers built for AI agents.",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "hyperbrowser",
     "gatewaySlug": "hyperbrowser",
-    "sourceHash": "v1-e9304385cea0bde950631e3b9a1395010c58fe08e8fbe6254800e8d4adef7b58",
-    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
+    "sourceHash": "v1-f6b3c8eb115811eb05edeb77934370cb698eb7543b069b4d153a84f44884f791",
+    "sourceCommit": "874331b0c46b151f9264bd14840631427a7721c1"
   }
 }

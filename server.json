@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/hyperbrowser",
-  "title": "Hyperbrowser",
-  "description": "Hyperbrowser MCP — wraps the Hyperbrowser AI-agent browsing API (hyperbrowser.ai). Scrape…",
-  "version": "0.2.1",
+  "title": "Hyperbrowser (Unofficial)",
+  "description": "Unofficial Hyperbrowser MCP — wraps the Hyperbrowser AI-agent browsing API (hyperbrowser.ai).…",
+  "version": "0.2.2",
   "websiteUrl": "https://pipeworx.io/packs/hyperbrowser",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-hyperbrowser",
